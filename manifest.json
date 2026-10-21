@@ -1,0 +1,73 @@
+{
+  "format": "weiya-course-manifest",
+  "schemaVersion": 1,
+  "version": "release-20261021042645414-8d9a68",
+  "publishedAt": "2026-10-21T04:26:45.414Z",
+  "packages": [
+    {
+      "key": "foundation-20261021-r1",
+      "path": "packages/foundation-20261021-r1-8d9a689ec144.json",
+      "sha256": "8d9a689ec1448c4c8af833d93541843bd9bc2f6c91ab92bdec50f4dd556b6862",
+      "bytes": 27342,
+      "title": "基础巩固 · 云端同步试用周"
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2026-10-22",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/c-ion",
+        "foundation-20261021-r1/g-river"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/m-quadratic",
+        "foundation-20261021-r1/c-redox"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/p-force",
+        "foundation-20261021-r1/e-evidence"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/c-ion",
+        "foundation-20261021-r1/z-writing"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/m-quadratic",
+        "foundation-20261021-r1/g-river"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/p-newton",
+        "foundation-20261021-r1/c-mole"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "packageKey": "foundation-20261021-r1",
+      "lessonIds": [
+        "foundation-20261021-r1/m-probability",
+        "foundation-20261021-r1/p-motion"
+      ]
+    }
+  ]
+}
